@@ -15,8 +15,9 @@ var rules = [
 "||m8.music.126.net",
 "||m9.music.126.net",
 "||m10.music.126.net",
-"||cntv.cn",
-"||cctv.com"
+".cntv.cn/",
+".cctv.com/",
+".cctvpic.com/"
 ];
 
 /*
