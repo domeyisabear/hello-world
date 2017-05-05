@@ -17,7 +17,12 @@ var rules = [
 "||m10.music.126.net",
 ".cntv.cn/",
 ".cctv.com/",
-".cctvpic.com/"
+".cctvpic.com/",
+"cctv1.vtime.cntv.cloudcdn.net",
+"cctv5.vtime.cntv.cloudcdn.net",
+"cctv5plus.vtime.cntv.cloudcdn.net",
+"cctv13.vtime.cntv.cloudcdn.net",
+"vip.sports.cntv.cn"
 ];
 
 /*
